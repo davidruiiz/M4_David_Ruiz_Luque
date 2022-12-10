@@ -59,4 +59,5 @@ def main():
     #Mostrar cuantos papeles para actrices hubo en la década de los 50's
     print('Los papeles para actrices hubo en la década de los 50\'s son: \n', len(elenco[(elenco['category'] == 'actress') & (elenco['year'] >= 1950) & (elenco['year'] <= 1959)]), '\n')
 
-
+if __name__ == '__main__':
+    main()
