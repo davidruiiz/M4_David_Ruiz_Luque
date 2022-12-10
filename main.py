@@ -1,5 +1,6 @@
 #Importa pandas y usa un alias para poder utilizar sus recursos
 import pandas as pd
+
 def main():
     #Cargar como dataframe de pandas el csv imdb_titulos.csv y mostrar sus 5 primeros registros
     titulos = pd.read_csv('imdb_titulos.csv')
