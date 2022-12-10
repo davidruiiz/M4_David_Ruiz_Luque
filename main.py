@@ -17,6 +17,7 @@ def main():
     print('Las peliculas que en el titulo tienen la palabra "Dracula" son: \n', titulos[titulos['title'].str.contains('Dracula')], '\n')
     print('El número total de peliculas que coinciden con este requisito es: ', len(titulos[titulos['title'].str.contains('Dracula')]), '\n')
     #Mostrar los 10 titulos más comunes (que más se repiten)
+    
     #Mostrar cual fue la primer pelicula hecha titulada "Romeo and Juliet"
     #Listar todas las peliculas que contengan la palabra "Exorcist" ordenadas de la más vieja a la más reciente
     #Mostrar cuantas peliculas fueron hechas en el año 1950
