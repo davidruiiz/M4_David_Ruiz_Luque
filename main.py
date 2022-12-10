@@ -17,3 +17,4 @@
 #Listado de papeles como protagonista (n=1) que tuvo el actor "Charlton Heston" en la década de los 60's, ordenado por año de forma descendente
 #Mostrar cuantos papeles para actores hubo en la década de los 50's
 #Mostrar cuantos papeles para actrices hubo en la década de los 50's
+dbb
